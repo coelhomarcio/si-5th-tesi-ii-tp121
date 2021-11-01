@@ -4,8 +4,7 @@ import { Footer } from "./interface/footer";
 
 @Component({
 	selector: "app-root",
-	template:
-	          `
+	template: `
 		          <app-header [title]="title"></app-header>
 		          <router-outlet></router-outlet>
 		          <app-footer [footer]="footer"></app-footer>
