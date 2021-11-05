@@ -13,10 +13,11 @@ import { MatDividerModule }   from "@angular/material/divider";
 
 import { AppRoutingModule } from "./app-routing.module";
 
-import { AppComponent }    from "./app.component";
-import { HeaderComponent } from "./component/header/header.component";
-import { FooterComponent } from "./component/footer/footer.component";
-import { HomeComponent }   from "./component/home/home.component";
+import { AppComponent }      from "./app.component";
+import { HeaderComponent }   from "./component/header/header.component";
+import { FooterComponent }   from "./component/footer/footer.component";
+import { HomeComponent }     from "./component/home/home.component";
+import { NotFoundComponent } from "./component/not-found/not-found.component";
 
 const firebaseConfig = {
 	apiKey:            "AIzaSyCr8SE_46FSgP_VsfFxFejy1gUZAIwKQuI",
@@ -32,7 +33,8 @@ const firebaseConfig = {
 		AppComponent,
 		HeaderComponent,
 		FooterComponent,
-		HomeComponent
+		HomeComponent,
+		NotFoundComponent
 	],
 	imports:      [
 		BrowserModule,
