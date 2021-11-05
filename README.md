@@ -2,7 +2,7 @@
 
 [See on StackBlitz ⚡️](https://stackblitz.com/edit/si-5th-tesi-ii-tp121)
 
-[Builded at GitHub Pages](https://coelhomarcio.github.io/si-5th-tesi-ii-tp121/dist/coelho-firebase)
+[Built at GitHub Pages](https://coelhomarcio.github.io/si-5th-tesi-ii-tp121/dist/coelho-firebase)
 
 ---
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
